@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1677603445 source:c:\users\killb\documents\c++\sem19\adressbook_registration_book\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+
+1678299478 source:c:\users\killb\documents\c++\sem19\adressbook_registration_bookpoprawakodu\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<stdio.h>
+
